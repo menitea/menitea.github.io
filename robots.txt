@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://menitea.github.io/sitemap/sitemap.txt
